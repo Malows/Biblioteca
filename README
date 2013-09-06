@@ -1,6 +1,14 @@
-Repositorio para el trabajo final de la cátedra Programación Orientada a Objetos(POO)
+Repositorio para el trabajo final de la catedra Programacion Orientada a Objetos(POO)
 de la facultad de ingenieria y ciencias hidricas de la Universidad Nacional del Litoral.
 
 --Objetivo--
 
 Un porgrama capas de gestionar el manejo de usuarios, libros y prestamos para una biblioteca.
+
+--Falta--
+Implementacion de punteros. Usamos objetos caballeros, y la verdad extra�aba estas cosas
+Unificar sintaxis
+	-Nombres de archivos
+	-Nombres de clases
+	
+Hacer andar esta cosa
