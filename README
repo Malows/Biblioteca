@@ -1,14 +1,36 @@
-Repositorio para el trabajo final de la catedra Programacion Orientada a Objetos(POO)
+Repositorio para el trabajo final de la cátedra Programación Orientada a Objetos(POO)
 de la facultad de ingenieria y ciencias hidricas de la Universidad Nacional del Litoral.
+
+Por favor, pedimos la no participación del público general.
 
 --Objetivo--
 
 Un porgrama capas de gestionar el manejo de usuarios, libros y prestamos para una biblioteca.
 
 --Falta--
-Implementacion de punteros. Usamos objetos caballeros, y la verdad extra�aba estas cosas
+Implementacion de punteros. Usamos objetos caballeros, y la verdad extrañaba estas cosas
 Unificar sintaxis
 	-Nombres de archivos
 	-Nombres de clases
 	
-Hacer andar esta cosa
+Re-incluir las cabeceras renombradas en la nueva disposicion de archivos, más ordenada, desde mi punto de vista
+
+^
+|
+Es importante, no va a andar nada sino... Les explico como viene la movida por acá. Separe todas las clases y archivos
+referentes a la interfaz gráfica en la carpeta /GUI osea que habría que incluir
+#include <GUI/archivo.h>
+
+--ANSI--
+
+Otra cosa, prefiero ver sintaxis unificada, no me gusta las ANSIS de java y de c++
+queTeEscribenLasCosasAsi
+_variablesPrivadas de esta manera
+Metodos propios de una clase
+
+La que rulean son las ansi de php donde_todo_es_legible y las funciones _son_amigables(), o son funciones reservadas por
+una interfaz, el padre, o el hecho de ser clase __construct() __destroy() __toString(/*maldito metodo bastardo*/)
+Hacer andar esta cosa.
+
+Elijan las ansi con la que trabajamos y cambiamos, yo me mande a cambiar con la ansi de c++, aunque fea es con la que mas
+se trabaja
